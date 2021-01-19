@@ -22,6 +22,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #include "config_common.h"
 
+// This is from the online configurator
+#define ORYX_CONFIGURATOR
 /* USB Device descriptor parameter */
 #define VENDOR_ID       0x3297
 #define DEVICE_VER      0x0001
